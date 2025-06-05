@@ -73,20 +73,9 @@ body {
     transform: rotateY(180deg);
 }
 
-
-
-
-
-
-
-
-
-
-
-
 footer {
-    background-color: black;
-    color: white;
+    background-color: #656d6e;
+    color: rgb(250, 254, 255);
     position: fixed;
     bottom: 0;
     width: 100%;
